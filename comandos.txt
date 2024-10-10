@@ -1,0 +1,5 @@
+Instrução 1:
+Instrução 2: touch comandos.txt
+Instrução 3: git init
+Instrucao 4: touch introducao.txt; touch desenvolvimento.txt; touch conclusao.txt
+Instrução 5: 

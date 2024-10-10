@@ -1,5 +1,21 @@
 Instrução 1:
 Instrução 2: touch comandos.txt
 Instrução 3: git init
-Instrucao 4: touch introducao.txt; touch desenvolvimento.txt; touch conclusao.txt
-Instrução 5: 
+Instrucão 4: touch introducao.txt; touch desenvolvimento.txt; touch conclusao.txt
+Instrução 5: git add. e git commit -am "Inserção de arquivos novos"
+Instrução 6: git branch desenvolvimento ; git branch revisao
+Instrução 7: git checkout desenvolvimento
+Instrução 8: git commit -am "Alteração nos arquivos introducao e desenvolvimento"
+             git commit -am "Inserção de linhas no arquivo conclusao"
+Instrução 9: git checkout revisao
+Instruçao 10: git commit -am "Alteração nos arquivos"
+Instruçao 11:git checkout desenvolvimento; git merge revisao -m "Merge revisao"
+Instrucao 12: não ocorreu comando
+Instrucao 13: não ocorreu comando
+Instrução 14: git log ; git log --oneline; git log --graph --oneline --all
+              git add. e git commit -am "Print dos logs" ( Eu fiz na brach desenvolvimento)
+Instrução 15: git checkout master; git merge desenvolvimento -m "Merge Final"
+              git log --graph --oneline --all
+              git add. e git commit -am "Print dos logs e historicos" 
+
+
